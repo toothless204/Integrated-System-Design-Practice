@@ -82,28 +82,47 @@ Workstation design, working posture, visual display, physical workload, and ment
 Physical work environment factors such as lighting, temperature, humidity, noise, air movement, odor, and dust can affect operator comfort and productivity.
 Work time standardization is important to establish realistic production targets and fair workload allocation.
 Tools and Methods
+## Tools and Methods
 
-This project uses the following tools and methods:
+This project uses a combination of industrial engineering, automation, ergonomics, and work measurement methods.
 
-Flow Diagram
-Worker-Machine Chart
-7 Quality Tools
-5 Whys Analysis
-5W1H Analysis
-Sensor-based Data Acquisition
-Arduino
-Tinkercad
-Ladder Logic
-Internet of Things Concept
-Ergonomics Assessment
-Anthropometry
-REBA
-RULA
-OWAS
-Recommended Weight Limit
-Lifting Index
-NASA-TLX
-Visual Display Evaluation
-Time Study
-Standard Time Calculation
-Physical Work Environment Analysis
+### Work System Analysis
+
+* Flow Diagram
+* Worker-Machine Chart
+* 7 Quality Tools
+* 5 Whys Analysis
+* 5W1H Analysis
+
+### Data Acquisition and Automation
+
+* Sensor-based Data Acquisition
+* Arduino
+* Tinkercad
+* Ladder Logic
+* Internet of Things Concept
+
+### Ergonomics and Human Factors
+
+* Ergonomics Assessment
+* Anthropometry
+* REBA
+* RULA
+* OWAS
+* Recommended Weight Limit
+* Lifting Index
+* NASA-TLX
+* Visual Display Evaluation
+
+### Work Measurement and Standardization
+
+* Time Study
+* Standard Time Calculation
+* Physical Work Environment Analysis
+
+
+
+The tools and methods above were used to analyze the existing manufacturing system, identify operational inefficiencies, evaluate operator workload and workplace conditions, and develop improvement recommendations for a more efficient, ergonomic, and data-driven production system.
+
+#Notes
+This repository is an academic documentation of the Integrated System Design Practicum II project. The main focus is to demonstrate how a manufacturing system can be analyzed and improved through the integration of work system engineering, automation technology, ergonomics, production data management, and work time standardization.
