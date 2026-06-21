@@ -1,4 +1,3 @@
-# Integrated-System-Design-Practice
 # Integrated System Design Practice
 
 This repository documents a complete series of **Integrated System Design Practice** projects, covering **PPST I, PPST II, PPST III, and PPST IV**. The projects represent a progressive industrial engineering learning path, starting from product and process realization, continuing to work system improvement and production control, and ending with facility layout design and investment feasibility analysis.
